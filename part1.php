@@ -1,0 +1,44 @@
+<head>
+
+  <meta charset="utf-8">
+  <!-- Latest compiled and minified CSS -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.min.css">
+
+  <link rel="stylesheet" type="text/css" href="style.css">
+
+  <!-- Optional theme -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap-theme.min.css">
+
+  <!-- JQuery -->
+  <script src="//code.jquery.com/jquery-1.11.0.min.js"></script>
+  <script src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+  <script src="//cdnjs.cloudflare.com/ajax/libs/jquery.form/3.51/jquery.form.js"></script>
+
+  <!-- Latest compiled and minified JavaScript -->
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>
+
+  <link rel="stylesheet" type="text/css" media="screen" href="//cdn.rawgit.com/Eonasdan/bootstrap-datetimepicker/master/build/css/bootstrap-datetimepicker.min.css">
+
+  <script type="text/javascript" src="//cdn.rawgit.com/Eonasdan/bootstrap-datetimepicker/master/src/js/bootstrap-datetimepicker.js"></script>
+
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0, minimum-scale=1.0, maximum-scale=1.0">
+
+</head>
+
+<body>
+
+<div class="container-fluid">
+  <div class="row-fluid center center-block centering">
+<div class="jumbotron center center-block centering">
+    <div class="container">
+  <h1>Introdução</h1>
+  <h2>Quando falamos de responsividade, a primeira coisa que vem à mente é a palavra <u><abbr title="TROLL." class="initialism">resposta</abbr></u>. E é algo normal de se pensar pois tem a ver com o que iremos falar.</h2>
+</br>
+  <p><a class="btn btn-default btn-lg" href="index.php" role="button">Voltar</a><a class="btn btn-primary btn-lg direita" href="part2.php" role="button">Avançar</a></p>
+    </div>
+    </div>
+  </div>
+</div>
+
+</body>
